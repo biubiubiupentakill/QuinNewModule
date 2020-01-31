@@ -1,2 +1,0 @@
-# QuinNewModule
-2020
